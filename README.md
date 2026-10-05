@@ -4,6 +4,13 @@ Systems & Network Administrator. Passionate about IT infrastructure reliability,
 
 ---
 
+### 💻 Current Status:
+* 🔭 **Working on:** Self-hosted infrastructure, network automation & monitoring
+* 🌱 **Learning:** Advanced network security & containerization
+* ⚡ **Fun fact:** Passionate about hardware diagnostics & IoT (ESP32)
+
+---
+
 ### 🛠️ Tech Stack & Tools:
 
 <p>
@@ -25,7 +32,7 @@ Systems & Network Administrator. Passionate about IT infrastructure reliability,
   <img src="https://img.shields.io/badge/Microsoft_Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" alt="Exchange" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
+  <img src="https://img.shields.io/badge-Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/Snipe--IT-000000?style=for-the-badge&logo=iiko&logoColor=white" alt="Snipe-IT" />
 
@@ -41,4 +48,12 @@ Systems & Network Administrator. Passionate about IT infrastructure reliability,
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=yarxsh&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+</p>
+
+---
+
+### 🐍 Contribution Snake:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yarxsh/yarxsh/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>

@@ -23,6 +23,7 @@ Systems & Network Administrator. Passionate about IT infrastructure reliability,
   <!-- Mail & Services -->
   <img src="https://img.shields.io/badge/Postfix-CC0000?style=for-the-badge&logo=postfix&logoColor=white" alt="Postfix" />
   <img src="https://img.shields.io/badge/Microsoft_Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" alt="Exchange" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />

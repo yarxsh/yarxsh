@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-System Administrator & IT Infrastructure Engineer. Passionate about networking, containerization, and automation.
+System Administrator & IT Infrastructure Engineer. Passionate about networking, containerization, automation, and security.
 
 ---
 
@@ -16,6 +16,11 @@ System Administrator & IT Infrastructure Engineer. Passionate about networking, 
   <!-- Networks & Security -->
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Fail2ban-333333?style=for-the-badge&logo=security&logoColor=white" alt="Fail2ban" />
+  <img src="https://img.shields.io/badge/UFW-CC0000?style=for-the-badge&logo=gnu&logoColor=white" alt="UFW" />
+
+  <!-- IoT & Hardware -->
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 
   <!-- Services & Tools -->
   <img src="https://img.shields.io/badge/Microsoft_Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" alt="Exchange" />

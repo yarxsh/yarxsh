@@ -27,6 +27,18 @@ Systems & Network Administrator. Passionate about IT infrastructure reliability,
 
 ---
 
+### 🎓 Certifications:
+
+<p>
+  <a href="https://learn.mastermindassurance.com/certificates/9ehtngut8k">
+    <img src="https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Lead_Auditor-8777D0?style=for-the-badge" alt="ISO/IEC 27001:2022 Lead Auditor" />
+  </a>
+  <a href="https://learn.mastermindassurance.com/certificates/nk109z4uqx">
+    <img src="https://img.shields.io/badge/ISO%2FIEC_42001%3A2023-Lead_Auditor-8777D0?style=for-the-badge" alt="ISO/IEC 42001:2023 Lead Auditor" />
+  </a>
+</p>
+
+---
 ### 📊 GitHub Stats:
 
 <p>

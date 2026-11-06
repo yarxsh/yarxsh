@@ -39,13 +39,6 @@ Systems & Network Administrator. Passionate about IT infrastructure reliability,
 </p>
 
 ---
-### 📊 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yarxsh&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-</p>
-
----
 
 ### 🐍 Contribution Snake:
 
